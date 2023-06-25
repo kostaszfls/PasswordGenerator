@@ -48,5 +48,5 @@ The Password Generator App is developed using C++ and standard libraries. It uti
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact Kostas Zafolias at zafoliask@outlook.com.gr.
+If you have any questions, suggestions, or feedback, please feel free to contact me at (zafoliask@outlook.com.gr).
 
