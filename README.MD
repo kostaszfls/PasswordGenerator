@@ -38,10 +38,6 @@ Generated Password: T3k@LQ7m*9q#
 
 Contributions to the Password Generator App are welcome! If you find any bugs, have feature requests, or want to make improvements to the code, feel free to open an issue or submit a pull request.
 
-## License
-
-The Password Generator App is open source and distributed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code.
-
 ## Acknowledgements
 
 The Password Generator App is developed using C++ and standard libraries. It utilizes the random number generation capabilities of the C++ standard library to generate random passwords.
